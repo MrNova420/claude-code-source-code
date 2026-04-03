@@ -3,7 +3,7 @@
 # Claude Code Source Snapshot
 
 **An exploratory mirror of a source snapshot reportedly exposed via published source maps on March 31, 2026**
- **Here is the Real SRC For Claude Codeim talking real code not just  cli indexing adn ect here is teh real thing free for all to hav assess to -For research and Study purposes ofc**
+ **Here is the Real full SRC That got leaked For Claude Code im talking real code not just  cli indexing and ect here is the real thing free for all to have assess to -For research and Study purposes ofc**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-512K%2B_lines-3178C6?logo=typescript&logoColor=white)](#tech-stack)
 [![Bun](https://img.shields.io/badge/Runtime-Bun-f472b6?logo=bun&logoColor=white)](#tech-stack)
